@@ -1,0 +1,26 @@
+PODS:
+  - CollectionKit (2.2.0):
+    - CollectionKit/Core (= 2.2.0)
+  - CollectionKit/Core (2.2.0)
+  - SnapKit (4.0.1)
+  - YetAnotherAnimationLibrary (1.3.0)
+
+DEPENDENCIES:
+  - CollectionKit
+  - SnapKit
+  - YetAnotherAnimationLibrary
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CollectionKit
+    - SnapKit
+    - YetAnotherAnimationLibrary
+
+SPEC CHECKSUMS:
+  CollectionKit: 5caa5341860d4c9b748ebfeaab97530b2d02c7c0
+  SnapKit: 0de968a9fec17499afa29683b05d0c775b6d1c29
+  YetAnotherAnimationLibrary: 69655d8bc9986919f334c940ddebde8e42bdd007
+
+PODFILE CHECKSUM: 185977eb54aa53c09d9fc6ddb4e363b4992f28e9
+
+COCOAPODS: 1.5.3
