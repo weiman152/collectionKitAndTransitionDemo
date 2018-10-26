@@ -7,3 +7,11 @@ collectionKit是一位牛人封装的实现CollectionView的一个控件，当�
 
 转场
 研究一下系统的转场动画，这里只是简单地实验。
+
+截图：
+<br>
+![Alt text](https://github.com/weiman152/collectionKitAndTransitionDemo/blob/master/screenShot/3.gif)
+<br><br>
+![Alt text](https://github.com/weiman152/collectionKitAndTransitionDemo/blob/master/screenShot/1.png)
+<br><br>
+![Alt text](https://github.com/weiman152/collectionKitAndTransitionDemo/blob/master/screenShot/2.png)
